@@ -2,8 +2,8 @@ from pyrogram import Client, Filters
 import time
 from pyrogram.errors import FloodWait
 
-k = -1001302468466
-bot = "859744901:AAFCJdH4ln9fn2xFDyk1iL6LjmETdHNHouk"
+k = -1001385541895
+bot = "918985036:AAHcAeyG9riuxRA-Y1J-qCzv2LZkUzN3k1k"
 app = Client (session_name="r",api_id=814511,api_hash="44462f0f278503255d5cc30941b617a9",bot_token = bot)                                   
 bullet = -1001289914295                                              
 ferrari = -1001453099412                                             
